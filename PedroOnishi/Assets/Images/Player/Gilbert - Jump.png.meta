@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: 48ccbfe4dc369bb43acead80468178d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7498081191629394940
+    second: Gilbert - Jump_0
+  - first:
+      213: 480745844036425353
+    second: Gilbert - Jump_1
+  - first:
+      213: -7891552747036707551
+    second: Gilbert - Jump_2
+  - first:
+      213: 4667927170947421813
+    second: Gilbert - Jump_3
+  - first:
+      213: 8118155471211471054
+    second: Gilbert - Jump_4
+  - first:
+      213: -3002709442235149993
+    second: Gilbert - Jump_5
+  - first:
+      213: 2791429151393532637
+    second: Gilbert - Jump_6
+  - first:
+      213: -8027417101988493563
+    second: Gilbert - Jump_7
+  - first:
+      213: 3747268449347652507
+    second: Gilbert - Jump_8
+  - first:
+      213: -8258800949877196276
+    second: Gilbert - Jump_9
+  - first:
+      213: -5910630636354548764
+    second: Gilbert - Jump_10
+  - first:
+      213: 7455452577429873861
+    second: Gilbert - Jump_11
+  - first:
+      213: 1222278191866270167
+    second: Gilbert - Jump_12
+  - first:
+      213: -6846143324076102849
+    second: Gilbert - Jump_13
+  - first:
+      213: 7770801150259420205
+    second: Gilbert - Jump_14
+  - first:
+      213: -8062237065459064907
+    second: Gilbert - Jump_15
+  - first:
+      213: 8477923793900499621
+    second: Gilbert - Jump_16
+  - first:
+      213: -5919627518339060654
+    second: Gilbert - Jump_17
+  - first:
+      213: -361436680482683037
+    second: Gilbert - Jump_18
+  - first:
+      213: 5306418523072732220
+    second: Gilbert - Jump_19
+  - first:
+      213: 3817366155182067608
+    second: Gilbert - Jump_20
+  - first:
+      213: 2463660926142290728
+    second: Gilbert - Jump_21
+  - first:
+      213: -5493552282970015843
+    second: Gilbert - Jump_22
+  - first:
+      213: 4883673119342932421
+    second: Gilbert - Jump_23
+  - first:
+      213: -4075665888615839216
+    second: Gilbert - Jump_24
+  - first:
+      213: -3378841022484236565
+    second: Gilbert - Jump_25
+  - first:
+      213: -326570803473420236
+    second: Gilbert - Jump_26
+  - first:
+      213: 4402975672698726411
+    second: Gilbert - Jump_27
+  - first:
+      213: -8992908456990794177
+    second: Gilbert - Jump_28
+  - first:
+      213: -2998038069931010875
+    second: Gilbert - Jump_29
+  - first:
+      213: -4268610280926153344
+    second: Gilbert - Jump_30
+  - first:
+      213: 7940464053870758356
+    second: Gilbert - Jump_31
+  - first:
+      213: -3891726074621296032
+    second: Gilbert - Jump_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 190
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gilbert - Jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 508
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf39b140e198e0860800000000000000
+      internalID: 7498081191629394940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Jump_1
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1920
+        width: 508
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986590d4cc3fba600800000000000000
+      internalID: 480745844036425353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Jump_2
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1920
+        width: 508
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1257e9a76929b7290800000000000000
+      internalID: -7891552747036707551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Jump_3
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1920
+        width: 508
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57617bdb70fc7c040800000000000000
+      internalID: 4667927170947421813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Jump_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 508
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec024f4a36b79a070800000000000000
+      internalID: 8118155471211471054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Jump_5
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1280
+        width: 508
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751dcdbdbab3456d0800000000000000
+      internalID: -3002709442235149993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Jump_6
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1280
+        width: 508
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda4b7806062db620800000000000000
+      internalID: 2791429151393532637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Jump_7
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1280
+        width: 508
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50784144da2e89090800000000000000
+      internalID: -8027417101988493563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Jump_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 508
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b45610dc8f00430800000000000000
+      internalID: 3747268449347652507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Jump_9
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 640
+        width: 508
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a39e70b48d26d80800000000000000
+      internalID: -8258800949877196276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Jump_10
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 640
+        width: 508
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebcb8980c839fda0800000000000000
+      internalID: -5910630636354548764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Jump_11
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 640
+        width: 508
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c46a755e96177760800000000000000
+      internalID: 7455452577429873861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Jump_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 508
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d155e22a8766f010800000000000000
+      internalID: 1222278191866270167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Jump_13
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 508
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b280f4bec9df0a0800000000000000
+      internalID: -6846143324076102849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Jump_14
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 0
+        width: 508
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cd865897e67db60800000000000000
+      internalID: 7770801150259420205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Jump_15
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 0
+        width: 508
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf1352ca1e2d1090800000000000000
+      internalID: -8062237065459064907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3cc9bd1e73748ae4aa3a7c776832cf11
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":508.0,"y":640.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Gilbert - Jump_0: 7498081191629394940
+      Gilbert - Jump_1: 480745844036425353
+      Gilbert - Jump_10: -5910630636354548764
+      Gilbert - Jump_11: 7455452577429873861
+      Gilbert - Jump_12: 1222278191866270167
+      Gilbert - Jump_13: -6846143324076102849
+      Gilbert - Jump_14: 7770801150259420205
+      Gilbert - Jump_15: -8062237065459064907
+      Gilbert - Jump_2: -7891552747036707551
+      Gilbert - Jump_3: 4667927170947421813
+      Gilbert - Jump_4: 8118155471211471054
+      Gilbert - Jump_5: -3002709442235149993
+      Gilbert - Jump_6: 2791429151393532637
+      Gilbert - Jump_7: -8027417101988493563
+      Gilbert - Jump_8: 3747268449347652507
+      Gilbert - Jump_9: -8258800949877196276
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

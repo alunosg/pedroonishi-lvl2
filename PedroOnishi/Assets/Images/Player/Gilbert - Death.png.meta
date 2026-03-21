@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: e9e231eacd074ce48baf6120325d59f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4400022940555654636
+    second: Gilbert - Death_0
+  - first:
+      213: 5094812253165851683
+    second: Gilbert - Death_1
+  - first:
+      213: -5210387156726047483
+    second: Gilbert - Death_2
+  - first:
+      213: -5987813104651322877
+    second: Gilbert - Death_3
+  - first:
+      213: -8278101434721655176
+    second: Gilbert - Death_4
+  - first:
+      213: 1780894519688061223
+    second: Gilbert - Death_5
+  - first:
+      213: -577330887604035162
+    second: Gilbert - Death_6
+  - first:
+      213: -2147062407241793842
+    second: Gilbert - Death_7
+  - first:
+      213: -5351203859982304631
+    second: Gilbert - Death_8
+  - first:
+      213: -6446201938477500127
+    second: Gilbert - Death_9
+  - first:
+      213: -5688984661782656993
+    second: Gilbert - Death_10
+  - first:
+      213: 6803447234049184812
+    second: Gilbert - Death_11
+  - first:
+      213: -3446198427875278868
+    second: Gilbert - Death_12
+  - first:
+      213: -8202275997485136873
+    second: Gilbert - Death_13
+  - first:
+      213: -2035883312797625285
+    second: Gilbert - Death_14
+  - first:
+      213: 3946950158973530686
+    second: Gilbert - Death_15
+  - first:
+      213: 3216285107939037186
+    second: Gilbert - Death_16
+  - first:
+      213: 6565268483919022013
+    second: Gilbert - Death_17
+  - first:
+      213: -7909384155456977311
+    second: Gilbert - Death_18
+  - first:
+      213: -1698702710403673425
+    second: Gilbert - Death_19
+  - first:
+      213: -4319789953777784202
+    second: Gilbert - Death_20
+  - first:
+      213: -7770161371153070274
+    second: Gilbert - Death_21
+  - first:
+      213: 2299282821476547397
+    second: Gilbert - Death_22
+  - first:
+      213: -6662861697033566577
+    second: Gilbert - Death_23
+  - first:
+      213: -379507004623402122
+    second: Gilbert - Death_24
+  - first:
+      213: -1750529278084235036
+    second: Gilbert - Death_25
+  - first:
+      213: -6656171668413517181
+    second: Gilbert - Death_26
+  - first:
+      213: -1894684536238949026
+    second: Gilbert - Death_27
+  - first:
+      213: -6190357852065389012
+    second: Gilbert - Death_28
+  - first:
+      213: -3762029152292537687
+    second: Gilbert - Death_29
+  - first:
+      213: -6581775035089400054
+    second: Gilbert - Death_30
+  - first:
+      213: -6329477579363568537
+    second: Gilbert - Death_31
+  - first:
+      213: 2712088118060471184
+    second: Gilbert - Death_32
+  - first:
+      213: -7343225050915267729
+    second: Gilbert - Death_33
+  - first:
+      213: -2290577423212859277
+    second: Gilbert - Death_34
+  - first:
+      213: -417042919370300017
+    second: Gilbert - Death_35
+  - first:
+      213: -344604507875015897
+    second: Gilbert - Death_36
+  - first:
+      213: -1685942671862981191
+    second: Gilbert - Death_37
+  - first:
+      213: 8119905435041273485
+    second: Gilbert - Death_38
+  - first:
+      213: 8875953783312319508
+    second: Gilbert - Death_39
+  - first:
+      213: 1795121227876222498
+    second: Gilbert - Death_40
+  - first:
+      213: 1735834559247077100
+    second: Gilbert - Death_41
+  - first:
+      213: -8943989736012662989
+    second: Gilbert - Death_42
+  - first:
+      213: -6054717832797977983
+    second: Gilbert - Death_43
+  - first:
+      213: 383024650239876217
+    second: Gilbert - Death_44
+  - first:
+      213: -4219403784236781032
+    second: Gilbert - Death_45
+  - first:
+      213: 7960477034494013164
+    second: Gilbert - Death_46
+  - first:
+      213: -73516812943981715
+    second: Gilbert - Death_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 210
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gilbert - Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 638
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5b3675d85001d30800000000000000
+      internalID: 4400022940555654636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Death_1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1632
+        width: 638
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324124330c864b640800000000000000
+      internalID: 5094812253165851683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Death_2
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1632
+        width: 638
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d161d9c7cf0b7b0800000000000000
+      internalID: -5210387156726047483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Death_3
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1632
+        width: 638
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a34d3c4b307eca0800000000000000
+      internalID: -5987813104651322877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Death_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 638
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876a3c8ba964e1d80800000000000000
+      internalID: -8278101434721655176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Death_5
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1088
+        width: 638
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721627c412207b810800000000000000
+      internalID: 1780894519688061223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Death_6
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1088
+        width: 638
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a12086dd98ecf7f0800000000000000
+      internalID: -577330887604035162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Death_7
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1088
+        width: 638
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecef1c1cd1a1432e0800000000000000
+      internalID: -2147062407241793842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Death_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 638
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a3e05f074bcb5b0800000000000000
+      internalID: -5351203859982304631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Death_9
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 544
+        width: 638
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1293d9a8d7d7a86a0800000000000000
+      internalID: -6446201938477500127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Death_10
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 544
+        width: 638
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f188cc5779aac01b0800000000000000
+      internalID: -5688984661782656993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Death_11
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 544
+        width: 638
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c249d919633ba6e50800000000000000
+      internalID: 6803447234049184812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Death_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 638
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceffbf0e9c4ac20d0800000000000000
+      internalID: -3446198427875278868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Death_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 638
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7148f241079ab2e80800000000000000
+      internalID: -8202275997485136873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Death_14
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 0
+        width: 638
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b345d80e9e61fb3e0800000000000000
+      internalID: -2035883312797625285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Death_15
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 0
+        width: 638
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32f9cbf14266c630800000000000000
+      internalID: 3946950158973530686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 76ea527ed1f37ca4f9a73fd5dc7d939b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":638.0,"y":544.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Gilbert - Death_0: 4400022940555654636
+      Gilbert - Death_1: 5094812253165851683
+      Gilbert - Death_10: -5688984661782656993
+      Gilbert - Death_11: 6803447234049184812
+      Gilbert - Death_12: -3446198427875278868
+      Gilbert - Death_13: -8202275997485136873
+      Gilbert - Death_14: -2035883312797625285
+      Gilbert - Death_15: 3946950158973530686
+      Gilbert - Death_2: -5210387156726047483
+      Gilbert - Death_3: -5987813104651322877
+      Gilbert - Death_4: -8278101434721655176
+      Gilbert - Death_5: 1780894519688061223
+      Gilbert - Death_6: -577330887604035162
+      Gilbert - Death_7: -2147062407241793842
+      Gilbert - Death_8: -5351203859982304631
+      Gilbert - Death_9: -6446201938477500127
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

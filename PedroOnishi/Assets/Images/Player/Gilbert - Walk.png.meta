@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: cf1d3c4f14272b346bf85c1630adcdf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1731217075526210847
+    second: Gilbert - Walk_0
+  - first:
+      213: 8515212194982484504
+    second: Gilbert - Walk_1
+  - first:
+      213: 7068505317892657366
+    second: Gilbert - Walk_2
+  - first:
+      213: 6411033489034841183
+    second: Gilbert - Walk_3
+  - first:
+      213: -5653065861013260308
+    second: Gilbert - Walk_4
+  - first:
+      213: -8043038367155213098
+    second: Gilbert - Walk_5
+  - first:
+      213: -2000482821274120477
+    second: Gilbert - Walk_6
+  - first:
+      213: -2735821240376073319
+    second: Gilbert - Walk_7
+  - first:
+      213: -752414125709701614
+    second: Gilbert - Walk_8
+  - first:
+      213: -5508824558244986971
+    second: Gilbert - Walk_9
+  - first:
+      213: -1098367537804291901
+    second: Gilbert - Walk_10
+  - first:
+      213: 6003424897208348295
+    second: Gilbert - Walk_11
+  - first:
+      213: 1423579844886510747
+    second: Gilbert - Walk_12
+  - first:
+      213: 1461303543716447047
+    second: Gilbert - Walk_13
+  - first:
+      213: 725673220058323867
+    second: Gilbert - Walk_14
+  - first:
+      213: 7120085411692486281
+    second: Gilbert - Walk_15
+  - first:
+      213: -1671897143839750929
+    second: Gilbert - Walk_16
+  - first:
+      213: 375190324379891524
+    second: Gilbert - Walk_17
+  - first:
+      213: 3214839883545460959
+    second: Gilbert - Walk_18
+  - first:
+      213: -4831350279860241983
+    second: Gilbert - Walk_19
+  - first:
+      213: 4290141342891173910
+    second: Gilbert - Walk_20
+  - first:
+      213: -6183575992179971531
+    second: Gilbert - Walk_21
+  - first:
+      213: -1128012466190978630
+    second: Gilbert - Walk_22
+  - first:
+      213: -5330056126444869783
+    second: Gilbert - Walk_23
+  - first:
+      213: 784173380819301125
+    second: Gilbert - Walk_24
+  - first:
+      213: -97013723212510470
+    second: Gilbert - Walk_25
+  - first:
+      213: -7128515126234725065
+    second: Gilbert - Walk_26
+  - first:
+      213: -8743659960427876556
+    second: Gilbert - Walk_27
+  - first:
+      213: 6667544990307262931
+    second: Gilbert - Walk_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gilbert - Walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 558
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1594dff1c4860810800000000000000
+      internalID: 1731217075526210847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Walk_1
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1632
+        width: 558
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a5105306c1c2670800000000000000
+      internalID: 8515212194982484504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Walk_2
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1632
+        width: 558
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d093f5d220681260800000000000000
+      internalID: 7068505317892657366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Walk_3
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1632
+        width: 558
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c0e0dbdf098f850800000000000000
+      internalID: 6411033489034841183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Walk_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 558
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7ba66fc864c81b0800000000000000
+      internalID: -5653065861013260308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Walk_5
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1088
+        width: 558
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc20ea0833616090800000000000000
+      internalID: -8043038367155213098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Walk_6
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1088
+        width: 558
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee4faa197bdc34e0800000000000000
+      internalID: -2000482821274120477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Walk_7
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1088
+        width: 558
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9936a6ea319680ad0800000000000000
+      internalID: -2735821240376073319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Walk_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 558
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e4611d653ee85f0800000000000000
+      internalID: -752414125709701614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Walk_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 544
+        width: 558
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5affbd35049bc83b0800000000000000
+      internalID: -5508824558244986971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Walk_10
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 544
+        width: 558
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0da543b80d1c0f0800000000000000
+      internalID: -1098367537804291901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Walk_11
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 544
+        width: 558
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ee6d1f223705350800000000000000
+      internalID: 6003424897208348295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Walk_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 558
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cbdd3935291c310800000000000000
+      internalID: 1423579844886510747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Walk_13
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 558
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7430d38a4d7974410800000000000000
+      internalID: 1461303543716447047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Walk_14
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 0
+        width: 558
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b1798e2fb121a00800000000000000
+      internalID: 725673220058323867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Walk_15
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 0
+        width: 558
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e1f5645ff9fc260800000000000000
+      internalID: 7120085411692486281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 259ad4c9d36864745bec707991b4db0d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":558.0,"y":544.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Gilbert - Walk_0: 1731217075526210847
+      Gilbert - Walk_1: 8515212194982484504
+      Gilbert - Walk_10: -1098367537804291901
+      Gilbert - Walk_11: 6003424897208348295
+      Gilbert - Walk_12: 1423579844886510747
+      Gilbert - Walk_13: 1461303543716447047
+      Gilbert - Walk_14: 725673220058323867
+      Gilbert - Walk_15: 7120085411692486281
+      Gilbert - Walk_2: 7068505317892657366
+      Gilbert - Walk_3: 6411033489034841183
+      Gilbert - Walk_4: -5653065861013260308
+      Gilbert - Walk_5: -8043038367155213098
+      Gilbert - Walk_6: -2000482821274120477
+      Gilbert - Walk_7: -2735821240376073319
+      Gilbert - Walk_8: -752414125709701614
+      Gilbert - Walk_9: -5508824558244986971
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

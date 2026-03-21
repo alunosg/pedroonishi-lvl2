@@ -1,0 +1,569 @@
+fileFormatVersion: 2
+guid: 986cabbcf264b2f4d8b6c3c98fe90a67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4318772556420004994
+    second: Gilbert - Idle_0
+  - first:
+      213: -7296587369496139466
+    second: Gilbert - Idle_1
+  - first:
+      213: -4010495080169470274
+    second: Gilbert - Idle_2
+  - first:
+      213: 3144454947036262300
+    second: Gilbert - Idle_3
+  - first:
+      213: 6171607607593376759
+    second: Gilbert - Idle_4
+  - first:
+      213: -5915637789644568342
+    second: Gilbert - Idle_5
+  - first:
+      213: -9073009984052064347
+    second: Gilbert - Idle_6
+  - first:
+      213: 7125403888615454967
+    second: Gilbert - Idle_7
+  - first:
+      213: -2502806843574311318
+    second: Gilbert - Idle_8
+  - first:
+      213: 4592621927489456076
+    second: Gilbert - Idle_9
+  - first:
+      213: -6075584455624049381
+    second: Gilbert - Idle_10
+  - first:
+      213: -7715067345413546346
+    second: Gilbert - Idle_11
+  - first:
+      213: 5996984210592599413
+    second: Gilbert - Idle_12
+  - first:
+      213: -2944109405639626126
+    second: Gilbert - Idle_13
+  - first:
+      213: 3892910100470053060
+    second: Gilbert - Idle_14
+  - first:
+      213: 6320313384373328100
+    second: Gilbert - Idle_15
+  - first:
+      213: 2433779746585190588
+    second: Gilbert - Idle_16
+  - first:
+      213: -8321547200074458897
+    second: Gilbert - Idle_17
+  - first:
+      213: -9054978667846170076
+    second: Gilbert - Idle_18
+  - first:
+      213: -323327269983670296
+    second: Gilbert - Idle_19
+  - first:
+      213: -8962481024772283046
+    second: Gilbert - Idle_20
+  - first:
+      213: 2981527515258883019
+    second: Gilbert - Idle_21
+  - first:
+      213: 4695453505629391902
+    second: Gilbert - Idle_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gilbert - Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1524
+        width: 478
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7341e4ed33a014c0800000000000000
+      internalID: -4318772556420004994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Idle_1
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1524
+        width: 478
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639a49842705dba90800000000000000
+      internalID: -7296587369496139466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Idle_2
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1524
+        width: 478
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb60c0d19fbd758c0800000000000000
+      internalID: -4010495080169470274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1524
+        width: 478
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fe0524d1953ab20800000000000000
+      internalID: 3144454947036262300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Idle_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1016
+        width: 478
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb93b7ab64f5a550800000000000000
+      internalID: 6171607607593376759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Idle_5
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1016
+        width: 478
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8cb50d5ce67eda0800000000000000
+      internalID: -5915637789644568342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Idle_6
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1016
+        width: 478
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af01098d71361280800000000000000
+      internalID: -9073009984052064347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1016
+        width: 478
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f87c1ea51582e260800000000000000
+      internalID: 7125403888615454967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Idle_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 478
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66265baf6e344dd0800000000000000
+      internalID: -2502806843574311318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Idle_9
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 508
+        width: 478
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7cdaf6f454cbf30800000000000000
+      internalID: 4592621927489456076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Idle_10
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 508
+        width: 478
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1db4af90203faba0800000000000000
+      internalID: -6075584455624049381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Idle_11
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 508
+        width: 478
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ed86220239ee490800000000000000
+      internalID: -7715067345413546346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 478
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d8ffbbd51993350800000000000000
+      internalID: 5996984210592599413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Idle_13
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 0
+        width: 478
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272b6f8181c6427d0800000000000000
+      internalID: -2944109405639626126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Idle_14
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 0
+        width: 478
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c83c016c15660630800000000000000
+      internalID: 3892910100470053060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 0
+        width: 478
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e818b0698346b750800000000000000
+      internalID: 6320313384373328100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e79595e12c80072488a0c3eb92a773fa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":478.0,"y":508.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Gilbert - Idle_0: -4318772556420004994
+      Gilbert - Idle_1: -7296587369496139466
+      Gilbert - Idle_10: -6075584455624049381
+      Gilbert - Idle_11: -7715067345413546346
+      Gilbert - Idle_12: 5996984210592599413
+      Gilbert - Idle_13: -2944109405639626126
+      Gilbert - Idle_14: 3892910100470053060
+      Gilbert - Idle_15: 6320313384373328100
+      Gilbert - Idle_2: -4010495080169470274
+      Gilbert - Idle_3: 3144454947036262300
+      Gilbert - Idle_4: 6171607607593376759
+      Gilbert - Idle_5: -5915637789644568342
+      Gilbert - Idle_6: -9073009984052064347
+      Gilbert - Idle_7: 7125403888615454967
+      Gilbert - Idle_8: -2502806843574311318
+      Gilbert - Idle_9: 4592621927489456076
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

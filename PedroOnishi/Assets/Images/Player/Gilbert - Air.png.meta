@@ -1,115 +1,55 @@
 fileFormatVersion: 2
-guid: 40614b4abdf11844381600ac171682d6
+guid: 704423d8653921e4baf5074fa6913370
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8687065201661869210
-    second: Gilbert - Attack_0
+      213: 3760064148324553403
+    second: Gilbert - Air_0
   - first:
-      213: -5955753480029936503
-    second: Gilbert - Attack_1
+      213: -3882192325303442641
+    second: Gilbert - Air_1
   - first:
-      213: 2449052446176117452
-    second: Gilbert - Attack_2
+      213: 753539929064714185
+    second: Gilbert - Air_2
   - first:
-      213: -6629376706834882874
-    second: Gilbert - Attack_3
+      213: 2177020605091444691
+    second: Gilbert - Air_3
   - first:
-      213: 583883161645877014
-    second: Gilbert - Attack_4
+      213: 1145053020156418786
+    second: Gilbert - Air_4
   - first:
-      213: -2948046404068151476
-    second: Gilbert - Attack_5
+      213: -5933521630142951322
+    second: Gilbert - Air_5
   - first:
-      213: 1537277861983722105
-    second: Gilbert - Attack_6
+      213: -1045729765739119616
+    second: Gilbert - Air_6
   - first:
-      213: -2471651327405504309
-    second: Gilbert - Attack_7
+      213: -4265360978657693095
+    second: Gilbert - Air_7
   - first:
-      213: -1376899469738814022
-    second: Gilbert - Attack_8
+      213: 2233990195019909858
+    second: Gilbert - Air_8
   - first:
-      213: -6529654774769886330
-    second: Gilbert - Attack_9
+      213: 2432531505097121379
+    second: Gilbert - Air_9
   - first:
-      213: 883200162823642864
-    second: Gilbert - Attack_10
+      213: 2383648473523914612
+    second: Gilbert - Air_10
   - first:
-      213: -6266251046959645123
-    second: Gilbert - Attack_11
+      213: -1801041327062965912
+    second: Gilbert - Air_11
   - first:
-      213: 1749534898724625574
-    second: Gilbert - Attack_12
+      213: -4236225057171159951
+    second: Gilbert - Air_12
   - first:
-      213: 3580883013711555006
-    second: Gilbert - Attack_13
+      213: -3037001855578543229
+    second: Gilbert - Air_13
   - first:
-      213: 5684306469211248580
-    second: Gilbert - Attack_14
+      213: -6945414916346175640
+    second: Gilbert - Air_14
   - first:
-      213: -5527958682544585192
-    second: Gilbert - Attack_15
-  - first:
-      213: -2112005991269089000
-    second: Gilbert - Attack_16
-  - first:
-      213: 2597483833016177348
-    second: Gilbert - Attack_17
-  - first:
-      213: -1481311869877353075
-    second: Gilbert - Attack_18
-  - first:
-      213: -1703470674755465895
-    second: Gilbert - Attack_19
-  - first:
-      213: -2231103155842423493
-    second: Gilbert - Attack_20
-  - first:
-      213: -8676597534078263328
-    second: Gilbert - Attack_21
-  - first:
-      213: 7177464877880598374
-    second: Gilbert - Attack_22
-  - first:
-      213: 5622140705962686726
-    second: Gilbert - Attack_23
-  - first:
-      213: 8870924902089751397
-    second: Gilbert - Attack_24
-  - first:
-      213: -7449883179718613465
-    second: Gilbert - Attack_25
-  - first:
-      213: 7619803452231127326
-    second: Gilbert - Attack_26
-  - first:
-      213: -4923724617292950578
-    second: Gilbert - Attack_27
-  - first:
-      213: 7838154314987119541
-    second: Gilbert - Attack_28
-  - first:
-      213: -5920159346527904471
-    second: Gilbert - Attack_29
-  - first:
-      213: 2679538546662075182
-    second: Gilbert - Attack_30
-  - first:
-      213: 6577272577833348274
-    second: Gilbert - Attack_31
-  - first:
-      213: 5810370161747068704
-    second: Gilbert - Attack_32
-  - first:
-      213: 370196738435863281
-    second: Gilbert - Attack_33
-  - first:
-      213: 1972414036346244887
-    second: Gilbert - Attack_34
-  - first:
-      213: -903306231118959645
-    second: Gilbert - Attack_35
+      213: -5024463610000819248
+    second: Gilbert - Air_15
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -156,7 +96,7 @@ TextureImporter:
   spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 230
+  spritePixelsToUnits: 220
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -218,13 +158,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gilbert - Attack_0
+      name: Gilbert - Air_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1656
-        width: 616
-        height: 552
+        y: 1302
+        width: 392
+        height: 434
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a9c76bd56c7ae8870800000000000000
-      internalID: 8687065201661869210
+      spriteID: bb21195db6e6e2430800000000000000
+      internalID: 3760064148324553403
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gilbert - Attack_1
+      name: Gilbert - Air_1
       rect:
         serializedVersion: 2
-        x: 616
-        y: 1656
-        width: 616
-        height: 552
+        x: 392
+        y: 1302
+        width: 392
+        height: 434
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -255,20 +195,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 984e40dc3c9e85da0800000000000000
-      internalID: -5955753480029936503
+      spriteID: f236a8c16aeaf1ac0800000000000000
+      internalID: -3882192325303442641
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gilbert - Attack_2
+      name: Gilbert - Air_2
       rect:
         serializedVersion: 2
-        x: 1232
-        y: 1656
-        width: 616
-        height: 552
+        x: 784
+        y: 1302
+        width: 392
+        height: 434
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,20 +217,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cc201a26938ccf120800000000000000
-      internalID: 2449052446176117452
+      spriteID: 9cfa9f3b29c157a00800000000000000
+      internalID: 753539929064714185
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gilbert - Attack_3
+      name: Gilbert - Air_3
       rect:
         serializedVersion: 2
-        x: 1848
-        y: 1656
-        width: 616
-        height: 552
+        x: 1176
+        y: 1302
+        width: 392
+        height: 434
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,108 +239,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6ce9bd25209bff3a0800000000000000
-      internalID: -6629376706834882874
+      spriteID: 3d77e2bb4b4563e10800000000000000
+      internalID: 2177020605091444691
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gilbert - Attack_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1104
-        width: 616
-        height: 552
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6170c3854ae5a1800800000000000000
-      internalID: 583883161645877014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Gilbert - Attack_5
-      rect:
-        serializedVersion: 2
-        x: 616
-        y: 1104
-        width: 616
-        height: 552
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c4f66283a6f6617d0800000000000000
-      internalID: -2948046404068151476
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Gilbert - Attack_6
-      rect:
-        serializedVersion: 2
-        x: 1232
-        y: 1104
-        width: 616
-        height: 552
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97a9c941212855510800000000000000
-      internalID: 1537277861983722105
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Gilbert - Attack_7
-      rect:
-        serializedVersion: 2
-        x: 1848
-        y: 1104
-        width: 616
-        height: 552
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bc84f5d863ee2bdd0800000000000000
-      internalID: -2471651327405504309
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Gilbert - Attack_8
+      name: Gilbert - Air_4
       rect:
         serializedVersion: 2
         x: 0
-        y: 552
-        width: 616
-        height: 552
+        y: 868
+        width: 392
+        height: 434
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -409,20 +261,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ab55bc63a3544ece0800000000000000
-      internalID: -1376899469738814022
+      spriteID: 2ea5963b7ab04ef00800000000000000
+      internalID: 1145053020156418786
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gilbert - Attack_9
+      name: Gilbert - Air_5
       rect:
         serializedVersion: 2
-        x: 616
-        y: 552
-        width: 616
-        height: 552
+        x: 392
+        y: 868
+        width: 392
+        height: 434
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -431,20 +283,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 68b58e3f3910265a0800000000000000
-      internalID: -6529654774769886330
+      spriteID: 6609b38b385e7ada0800000000000000
+      internalID: -5933521630142951322
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gilbert - Attack_10
+      name: Gilbert - Air_6
       rect:
         serializedVersion: 2
-        x: 1232
-        y: 552
-        width: 616
-        height: 552
+        x: 784
+        y: 868
+        width: 392
+        height: 434
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -453,20 +305,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0fe9ba26ed1c14c00800000000000000
-      internalID: 883200162823642864
+      spriteID: 00c311e8152dc71f0800000000000000
+      internalID: -1045729765739119616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gilbert - Attack_11
+      name: Gilbert - Air_7
       rect:
         serializedVersion: 2
-        x: 1848
-        y: 552
-        width: 616
-        height: 552
+        x: 1176
+        y: 868
+        width: 392
+        height: 434
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -475,20 +327,108 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d3efc807fddc909a0800000000000000
-      internalID: -6266251046959645123
+      spriteID: 952bb4ce9c46ec4c0800000000000000
+      internalID: -4265360978657693095
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gilbert - Attack_12
+      name: Gilbert - Air_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 392
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea0ed50f3ab00f10800000000000000
+      internalID: 2233990195019909858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Air_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 434
+        width: 392
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e924a048612c120800000000000000
+      internalID: 2432531505097121379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Air_10
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 434
+        width: 392
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4778bc558ab641120800000000000000
+      internalID: 2383648473523914612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Air_11
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 434
+        width: 392
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8612d92947a6107e0800000000000000
+      internalID: -1801041327062965912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilbert - Air_12
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 616
-        height: 552
+        width: 392
+        height: 434
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -497,20 +437,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6ac51a098b8974810800000000000000
-      internalID: 1749534898724625574
+      spriteID: 17444b641c7e535c0800000000000000
+      internalID: -4236225057171159951
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gilbert - Attack_13
+      name: Gilbert - Air_13
       rect:
         serializedVersion: 2
-        x: 616
+        x: 392
         y: 0
-        width: 616
-        height: 552
+        width: 392
+        height: 434
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -519,20 +459,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eb9e18ee02ad1b130800000000000000
-      internalID: 3580883013711555006
+      spriteID: 38be90037e66ad5d0800000000000000
+      internalID: -3037001855578543229
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gilbert - Attack_14
+      name: Gilbert - Air_14
       rect:
         serializedVersion: 2
-        x: 1232
+        x: 784
         y: 0
-        width: 616
-        height: 552
+        width: 392
+        height: 434
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -541,20 +481,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4c79ac3fd96b2ee40800000000000000
-      internalID: 5684306469211248580
+      spriteID: 86f9c759eedec9f90800000000000000
+      internalID: -6945414916346175640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gilbert - Attack_15
+      name: Gilbert - Air_15
       rect:
         serializedVersion: 2
-        x: 1848
+        x: 1176
         y: 0
-        width: 616
-        height: 552
+        width: 392
+        height: 434
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -563,8 +503,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 816c4e9dddeb843b0800000000000000
-      internalID: -5527958682544585192
+      spriteID: 0db360ba7f4854ab0800000000000000
+      internalID: -5024463610000819248
       vertices: []
       indices: 
       edges: []
@@ -573,7 +513,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 163c0c621761e6a4eb4f23fd637d5d1b
+    spriteID: 7cf22d655407b014ba1263643838280f
     internalID: 0
     vertices: []
     indices: 
@@ -583,24 +523,24 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":616.0,"y":552.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":392.0,"y":434.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Gilbert - Attack_0: 8687065201661869210
-      Gilbert - Attack_1: -5955753480029936503
-      Gilbert - Attack_10: 883200162823642864
-      Gilbert - Attack_11: -6266251046959645123
-      Gilbert - Attack_12: 1749534898724625574
-      Gilbert - Attack_13: 3580883013711555006
-      Gilbert - Attack_14: 5684306469211248580
-      Gilbert - Attack_15: -5527958682544585192
-      Gilbert - Attack_2: 2449052446176117452
-      Gilbert - Attack_3: -6629376706834882874
-      Gilbert - Attack_4: 583883161645877014
-      Gilbert - Attack_5: -2948046404068151476
-      Gilbert - Attack_6: 1537277861983722105
-      Gilbert - Attack_7: -2471651327405504309
-      Gilbert - Attack_8: -1376899469738814022
-      Gilbert - Attack_9: -6529654774769886330
+      Gilbert - Air_0: 3760064148324553403
+      Gilbert - Air_1: -3882192325303442641
+      Gilbert - Air_10: 2383648473523914612
+      Gilbert - Air_11: -1801041327062965912
+      Gilbert - Air_12: -4236225057171159951
+      Gilbert - Air_13: -3037001855578543229
+      Gilbert - Air_14: -6945414916346175640
+      Gilbert - Air_15: -5024463610000819248
+      Gilbert - Air_2: 753539929064714185
+      Gilbert - Air_3: 2177020605091444691
+      Gilbert - Air_4: 1145053020156418786
+      Gilbert - Air_5: -5933521630142951322
+      Gilbert - Air_6: -1045729765739119616
+      Gilbert - Air_7: -4265360978657693095
+      Gilbert - Air_8: 2233990195019909858
+      Gilbert - Air_9: 2432531505097121379
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -27,6 +27,7 @@ public class PlayerController : MonoBehaviour
     {
         if(context.started && grounded)
         {
+            anim.SetTrigger("Jump");
             rig.linearVelocity = new Vector2
             (
                 rig.linearVelocity.x,

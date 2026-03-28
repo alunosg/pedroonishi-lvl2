@@ -5,3 +5,7 @@ PedroOnishi/Logs
 PedroOnishi/UserSettings
 *.csproj
 *.slnx
+PedroOnishi/.vs
+*.vsconfig
+*.sln
+PedroOnishi/obj

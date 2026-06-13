@@ -15,7 +15,7 @@ public class PlayerController : MonoBehaviour
     public float attackDuration = 1.0f;
     public float airAttackDuration = 1.0f;
     public float hitDuration = 0.25f;
-    public float deathDuration = 2.0f;
+    public float deathDuration = 0.3f;
     public GameObject attackFX, attackHitFX, hitFX, deathFX;
     public Transform attackPoint;
 
